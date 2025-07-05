@@ -1,0 +1,45 @@
+# _config.yml
+
+title: "Marc Gómez Asensio"
+description: "Portafolio ingeniero informático"
+author: "Marc Gómez Asensio"
+email: "marcgomezasensio@icloud.com"
+url: "https://Markuus9.github.io" # Reemplaza <tu-usuario> con tu usuario de GitHub
+baseurl: ""
+
+theme: jekyll-theme-minimal
+
+# Navegación principal
+navigation:
+  - title: "Inicio"
+    url: "/"
+  - title: "Proyectos"
+    url: "/proyectos"
+  - title: "Sobre mí"
+    url: "/sobre-mi"
+  - title: "Contacto"
+    url: "/contacto"
+
+# Redes sociales
+social_links:
+  - name: GitHub
+    url: https://github.com/Markuus9
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/marc-gomez-asensio/
+
+# Idiomas
+languages: ["es", "en", "ca"]
+
+# Plugins útiles para SEO y accesibilidad
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+
+# Archivos que no quieres publicar
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
