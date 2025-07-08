@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Marc",
+    "surname": "Gómez",
+    "description": "Estudiante de Ingeniería Informática en la UPC con pasión por crear soluciones innovadoras en múltiples plataformas. Desde apps móviles hasta infraestructura de servidores, me encanta construir tecnología que marca la diferencia.",
+    "viewWork": "Ver Mi Trabajo",
+    "scroll": "Desplazar"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "role": "Estudiante de Ingeniería Informática @ UPC",
+    "description": "Soy estudiante de último año de Ingeniería Informática en la UPC con amplia experiencia en todas las áreas del desarrollo de software. Desde programación en ensamblador hasta estructuras 3D complejas con OpenGL, gestión de servidores y contenedores. He trabajado en proyectos en equipo con más de 50 integrantes y desarrollado diversas aplicaciones móviles y servicios de servidor por mi cuenta.",
+    "currentStatus": "Buscando oportunidades laborales",
+    "projects": "Proyectos",
+    "technologies": "Tecnologías",
+    "teamwork": "Colaboración en Equipo",
+    "viewLinkedin": "Ver LinkedIn",
+    "experience": {
+      "mobile": {
+        "title": "Desarrollo Móvil y de Escritorio",
+        "description": "Desarrollo de aplicaciones móviles y de escritorio usando Flutter, SwiftUI y tecnologías nativas."
+      },
+      "fullstack": {
+        "title": "Desarrollo Full-Stack", 
+        "description": "Experiencia completa desde frontend hasta infraestructura de servidores y gestión de bases de datos."
+      },
+      "teamwork": {
+        "title": "Colaboración en Equipo",
+        "description": "Experiencia trabajando en equipos de más de 50 integrantes en proyectos complejos universitarios."
+      }
+    }
+  },  "skills": {
+    "title": "Tecnologías y Habilidades",
+    "description": "Lenguajes de programación y tecnologías que he usado para crear proyectos durante mis estudios",
+    "categories": {
+      "all": "Todas",
+      "mobile": "Desarrollo Móvil",
+      "web": "Desarrollo Web",
+      "systems": "Sistemas e Infraestructura",
+      "data": "Datos e IA"
+    },
+    "levels": {
+        "learning": "Aprendiendo",
+        "intermediate": "Intermedio",
+        "advanced": "Avanzado"
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "description": "Algunos de los proyectos que he desarrollado durante mis estudios y tiempo personal",
+    "checkGithub": "Ver Mi GitHub",
+    "viewProject": "Ver Proyecto",
+    "viewCode": "Ver Código",
+    "projects": {
+      "hexCalculator": {
+        "title": "HexCalculator",
+        "description": "App de calculadora iOS que soporta operaciones hexadecimales, binarias y decimales con una interfaz intuitiva.",
+        "tech": ["SwiftUI", "Swift"]
+      },
+      "ligaUPC": {
+        "title": "Liga UPC",
+        "description": "Aplicación completa para la gestión de ligas UPC con actualizaciones en tiempo real y capacidades de scrapping de datos.",
+        "tech": ["Flutter", "PHP", "Python", "MySQL"]
+      },
+      "flysy": {
+        "title": "Flysy",
+        "description": "Proyecto web universitario para la gestión de aeropuertos con servicios y coordinación de vehículos autónomos.",
+        "tech": ["React", "Node.js", "Base de Datos"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "description": "¿Interesado en colaborar o tienes un proyecto en mente? ¡Conectemos y construyamos algo increíble juntos!",
+    "sendMessage": "Envía un Mensaje",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito!",
+    "successDescription": "Gracias por tu mensaje. Te responderé pronto.",
+    "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
+    "placeholders": {
+      "name": "Tu nombre completo...",
+      "email": "tu.email@ejemplo.com",
+      "message": "Hola, me gustaría hablar sobre..."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Correo",
+      "location": "Ubicación",
+      "linkedin": "LinkedIn",
+      "github": "GitHub", 
+      "connect": "Conecta Conmigo"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con ❤️ por Marc Gómez"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
+  },
+  "theme": {
+    "switchToLight": "Cambiar a modo claro",
+    "switchToDark": "Cambiar a modo oscuro"
+  }
+}

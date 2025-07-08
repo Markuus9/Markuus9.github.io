@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Marc",
+    "surname": "Gómez",
+    "description": "Computer Engineering student at UPC with a passion for creating innovative solutions across multiple platforms. From mobile apps to server infrastructure, I love building technology that makes a difference.",
+    "viewWork": "View My Work",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title": "About Me",
+    "role": "Computer Engineering Student @ UPC",
+    "description": "I'm a final-year Computer Engineering student at UPC with extensive experience across all areas of software development. From low-level assembly programming to complex 3D structures with OpenGL, server management, and containerization. I've worked on large team projects with over 50 members and developed various mobile applications and server services on my own.",
+    "currentStatus": "Looking for employment opportunities",
+    "projects": "Projects",
+    "technologies": "Technologies", 
+    "teamwork": "Team Collaboration",
+    "viewLinkedin": "View LinkedIn",
+    "experience": {
+      "mobile": {
+        "title": "Mobile & Desktop Development",
+        "description": "Development of mobile and desktop applications using Flutter, SwiftUI and native technologies."
+      },
+      "fullstack": {
+        "title": "Full-Stack Development", 
+        "description": "Complete experience from frontend to server infrastructure and database management."
+      },
+      "teamwork": {
+        "title": "Team Collaboration",
+        "description": "Experience working in teams of more than 50 members on complex university projects."
+      }
+    }
+  },
+  "skills": {
+    "title": "Technologies & Skills",
+    "description": "Programming languages and technologies I've used to create projects throughout my studies",
+    "categories": {
+      "all": "All",
+      "mobile": "Mobile Development", 
+      "web": "Web Development",
+      "systems": "Systems & Infrastructure",
+      "data": "Data & AI"
+    },
+    "levels": {
+      "learning": "Learning",
+        "intermediate": "Intermediate", 
+        "advanced": "Advanced"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "description": "Some of the projects I've developed during my studies and personal time",
+    "checkGithub": "Check My GitHub",
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "projects": {
+      "hexCalculator": {
+        "title": "HexCalculator",
+        "description": "iOS calculator app supporting hexadecimal, binary, and decimal operations with an intuitive interface.",
+        "tech": ["SwiftUI", "Swift"]
+      },
+      "ligaUPC": {
+        "title": "Liga UPC", 
+        "description": "Complete application for managing UPC leagues with real-time updates and data scraping capabilities.",
+        "tech": ["Flutter", "PHP", "Python", "MySQL"]
+      },
+      "flysy": {
+        "title": "Flysy",
+        "description": "University web project for airport management with services and autonomous vehicle coordination.",
+        "tech": ["React", "Node.js", "Database"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Interested in collaboration or have a project in mind? Let's connect and build something amazing together!",
+    "sendMessage": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "successDescription": "Thank you for your message. I'll get back to you soon.",
+    "error": "Error sending message. Please try again.",
+    "placeholders": {
+      "name": "Your full name...",
+      "email": "your.email@example.com",
+      "message": "Hello, I'd like to talk about..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "location": "Location",
+      "linkedin": "LinkedIn", 
+      "github": "GitHub",
+      "connect": "Connect With Me"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with ❤️ by Marc Gómez"
+  },
+  "language": {
+    "select": "Select Language"
+  },
+  "theme": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode"
+  }
+}

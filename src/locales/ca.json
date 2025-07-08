@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Inici",
+    "about": "Sobre mi",
+    "skills": "Habilitats",
+    "projects": "Projectes",
+    "contact": "Contacte",
+    "openMenu": "Obrir menú",
+    "closeMenu": "Tancar menú"
+  },
+  "hero": {
+    "greeting": "Hola, sóc",
+    "name": "Marc",
+    "surname": "Gómez",
+    "description": "Estudiant d'Enginyeria Informàtica a la UPC amb passió per crear solucions innovadores en múltiples plataformes. Des d'apps mòbils fins a infraestructura de servidors, m'encanta construir tecnologia que marca la diferència.",
+    "viewWork": "Veure el Meu Treball",
+    "scroll": "Desplaçar"
+  },
+  "about": {
+    "title": "Sobre Mi",
+    "role": "Estudiant d'Enginyeria Informàtica @ UPC",
+    "description": "Sóc estudiant d'últim any d'Enginyeria Informàtica a la UPC amb àmplia experiència en totes les àrees del desenvolupament de programari. Des de programació en assemblador fins a estructures 3D complexes amb OpenGL, gestió de servidors i contenidors. He treballat en projectes en equip amb més de 50 integrants i desenvolupat diverses aplicacions mòbils i serveis de servidor pel meu compte.",
+    "currentStatus": "Buscant oportunitats laborals",
+    "projects": "Projectes",
+    "technologies": "Tecnologies",
+    "teamwork": "Col·laboració en Equip",
+    "viewLinkedin": "Veure LinkedIn",
+    "experience": {
+      "mobile": {
+        "title": "Desenvolupament Mòbil i d'Escriptori",
+        "description": "Desenvolupament d'aplicacions mòbils i d'escriptori usant Flutter, SwiftUI i tecnologies natives."
+      },
+      "fullstack": {
+        "title": "Desenvolupament Full-Stack", 
+        "description": "Experiència completa des de frontend fins a infraestructura de servidors i gestió de bases de dades."
+      },
+      "teamwork": {
+        "title": "Col·laboració en Equip",
+        "description": "Experiència treballant en equips de més de 50 integrants en projectes complexos universitaris."
+      }
+    }
+  },  "skills": {
+    "title": "Tecnologies i Habilitats",
+    "description": "Llenguatges de programació i tecnologies que he utilitzat per crear projectes durant els meus estudis",
+    "categories": {
+      "all": "Totes",
+      "mobile": "Desenvolupament Mòbil",
+      "web": "Desenvolupament Web",
+      "systems": "Sistemes i Infraestructura",
+      "data": "Dades i IA"
+    },
+    "levels": {
+        "learning": "Aprenent",
+        "intermediate": "Intermedi",
+        "advanced": "Avançat"
+    }
+  },
+  "projects": {
+    "title": "Projectes Destacats",
+    "description": "Alguns dels projectes que he desenvolupat durant els meus estudis i temps personal",
+    "checkGithub": "Veure El Meu GitHub",
+    "viewProject": "Veure Projecte",
+    "viewCode": "Veure Codi",
+    "projects": {
+      "hexCalculator": {
+        "title": "HexCalculator",
+        "description": "App de calculadora iOS que suporta operacions hexadecimals, binàries i decimals amb una interfície intuïtiva.",
+        "tech": ["SwiftUI", "Swift"]
+      },
+      "ligaUPC": {
+        "title": "Liga UPC",
+        "description": "Aplicació completa per a la gestió de lligues UPC amb actualitzacions en temps real i capacitats de scrapping de dades.",
+        "tech": ["Flutter", "PHP", "Python", "MySQL"]
+      },
+      "flysy": {
+        "title": "Flysy",
+        "description": "Projecte web universitari per a la gestió d'aeroports amb serveis i coordinació de vehicles autònoms.",
+        "tech": ["React", "Node.js", "Base de Dades"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Posa't en Contacte",
+    "description": "Interessat en col·laborar o tens un projecte en ment? Connectem i construïm alguna cosa increïble junts!",
+    "sendMessage": "Envia un Missatge",
+    "name": "Nom",
+    "email": "Correu Electrònic",
+    "message": "Missatge",
+    "send": "Enviar Missatge",
+    "sending": "Enviant...",
+    "success": "Missatge enviat amb èxit!",
+    "successDescription": "Gràcies pel teu missatge. Et respondré aviat.",
+    "error": "Error en enviar el missatge. Si us plau, torna-ho a intentar.",
+    "placeholders": {
+      "name": "El teu nom complet...",
+      "email": "el.teu.email@exemple.com",
+      "message": "Hola, m'agradaria parlar sobre..."
+    },
+    "info": {
+      "title": "Informació de Contacte",
+      "email": "Correu",
+      "location": "Ubicació",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "connect": "Connecta amb Mi"
+    }
+  },
+  "footer": {
+    "rights": "Tots els drets reservats.",
+    "madeWith": "Fet amb ❤️ per Marc Gómez"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
+  },
+  "theme": {
+    "switchToLight": "Canviar a mode clar",
+    "switchToDark": "Canviar a mode fosc"
+  }
+}
