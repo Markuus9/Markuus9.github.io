@@ -5,15 +5,33 @@ import { cn } from '@/lib/utils';
 import { useClickOutside } from '@/hooks/useLanguage';
 
 const languages = [
-    { code: 'en', name: 'English', flag: '🇺🇸' },
-    { code: 'es', name: 'Español', flag: '🇪🇸' },
+    {   code: 'en', 
+        name: 'English', 
+        flag: (
+            <img 
+                src="/images/Bandera_EEUU_emoji.png" 
+                className="h-[18px] w-[22px] ml-0.5 p-0" 
+                alt="Catalan flag"
+            /> 
+        ),
+    },
+    {   code: 'es', 
+        name: 'Español', 
+        flag: (
+            <img 
+                src="/images/Bandera_española_emoji.png" 
+                className="h-[20px] w-[22px] ml-0.5 p-0" 
+                alt="Spanish flag"
+            />
+        ) 
+    },
     { 
         code: 'ca', 
         name: 'Català', 
         flag: (
             <img 
-                src="/public/images/Bandera_catalana_emoji.png" 
-                className="h-[18px] w-[22px] ml-0.5 p-0 -scale-x-100" 
+                src="/images/Bandera_catalana_emoji.png" 
+                className="h-[16px] w-[22px] ml-0.5 p-0 -scale-x-100" 
                 alt="Catalan flag"
             />
         ),
